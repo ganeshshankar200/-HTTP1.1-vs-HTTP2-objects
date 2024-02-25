@@ -1,0 +1,17 @@
+Difference between HTTP1 vs HTTP2
+
+*HTTP is the method computers and servers use to request and send information
+*The first usable version of HTTP was created in 1997 Because it went through several stages of development this first version of HTTP was called HTTP1
+*HTTP1 loads resources one after the other  so if one resource cannot be loaded, it blocks all the other resources behind it
+*HTTP2 is able to use a single TCP connection to send multiple streams of data at once so that no one resource                            blocks any other resource   
+*HTTP2 does this by splitting data into binary-code messages
+*HTTP1 loads resources one after the other so if one resource cannot be loaded it blocks all the other resources behind it
+ In contrast HTTP2 is able to use a single TCP connection to send multiple streams of data at once so that no one resource    blocks any other resource
+
+
+objects and its internal representation in Javascrip
+
+*Objects in Java Script are not similar to any other objects in any other languages. Other languages like C,C++,Java have their own object necessity
+*A JavaScript object is a collection of unordered properties. Properties can usually be changed, added, and deleted, but some are read only
+*Objects in JavaScript are very much similar to the objects in real-life. We can see a lot of Objects around us in this real world, each with its own set of properties
+*javascript object have key and value in object the key wants to br unique or else it will throw erroe in object
